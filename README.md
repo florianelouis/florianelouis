@@ -36,5 +36,5 @@
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <img src="https://streak-stats.demolab.com/?user=florianelouis&theme=gruvbox&hide_border=false" />
 </div>
