@@ -1,4 +1,4 @@
-<h1 style="color:FAD644">Hey, I'm Floriane</h1>
+<h1>Hey, I'm Floriane</h1>
 <h3>Junior Web developer based in France.</h3>
 
 ---
