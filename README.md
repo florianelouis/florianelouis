@@ -1,4 +1,4 @@
-<h1>Hey, I'm Floriane</h1>
+<h1 style="color:FAD644">Hey, I'm Floriane</h1>
 <h3>Junior Web developer based in France.</h3>
 
 <p>
@@ -35,6 +35,6 @@
 ---
 
 ## GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=florianelouis&theme=gruvbox&hide_border=false" />
+<div>
+  <img src="https://streak-stats.demolab.com/?user=florianelouis&theme=great-gatsby&hide_border=false" />
 </div>
