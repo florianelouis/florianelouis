@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Floriane</h1>
-<h3 align="center">Junior Web developer based in France.</h3>
+<h1>Hey, I'm Floriane</h1>
+<h3>Junior Web developer based in France.</h3>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/floriane-louis/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -35,20 +35,6 @@
 ---
 
 ## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=florianelouis&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=florianelouis&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=florianelouis&theme=gruvbox&hide_border=false" />
-</div>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
