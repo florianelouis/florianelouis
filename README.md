@@ -69,6 +69,3 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=florianelouis&bg_color=00000000&color=f5d661&line=f5d661&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/florianelouis">florianelouis</a></i></p>
